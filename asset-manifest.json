@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rest_countries_api_by_using_axios/static/css/main.6896003a.chunk.css",
+    "main.js": "/rest_countries_api_by_using_axios/static/js/main.fe34ab62.chunk.js",
+    "main.js.map": "/rest_countries_api_by_using_axios/static/js/main.fe34ab62.chunk.js.map",
+    "runtime-main.js": "/rest_countries_api_by_using_axios/static/js/runtime-main.c4e6229e.js",
+    "runtime-main.js.map": "/rest_countries_api_by_using_axios/static/js/runtime-main.c4e6229e.js.map",
+    "static/js/2.8bea7a04.chunk.js": "/rest_countries_api_by_using_axios/static/js/2.8bea7a04.chunk.js",
+    "static/js/2.8bea7a04.chunk.js.map": "/rest_countries_api_by_using_axios/static/js/2.8bea7a04.chunk.js.map",
+    "index.html": "/rest_countries_api_by_using_axios/index.html",
+    "static/css/main.6896003a.chunk.css.map": "/rest_countries_api_by_using_axios/static/css/main.6896003a.chunk.css.map",
+    "static/js/2.8bea7a04.chunk.js.LICENSE.txt": "/rest_countries_api_by_using_axios/static/js/2.8bea7a04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4e6229e.js",
+    "static/js/2.8bea7a04.chunk.js",
+    "static/css/main.6896003a.chunk.css",
+    "static/js/main.fe34ab62.chunk.js"
+  ]
+}
